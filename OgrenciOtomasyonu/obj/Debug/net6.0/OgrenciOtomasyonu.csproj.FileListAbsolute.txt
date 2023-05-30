@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\bin\Debug\net6.0\OgrenciOtomasyonu.exe
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\bin\Debug\net6.0\OgrenciOtomasyonu.deps.json
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\bin\Debug\net6.0\OgrenciOtomasyonu.runtimeconfig.json
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\bin\Debug\net6.0\OgrenciOtomasyonu.dll
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\bin\Debug\net6.0\OgrenciOtomasyonu.pdb
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\OgrenciOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\OgrenciOtomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\OgrenciOtomasyonu.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\OgrenciOtomasyonu.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\OgrenciOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\OgrenciOtomasyonu.dll
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\refint\OgrenciOtomasyonu.dll
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\OgrenciOtomasyonu.pdb
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\OgrenciOtomasyonu.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Masaüstü\OgrenciOtomasyonu\obj\Debug\net6.0\ref\OgrenciOtomasyonu.dll
